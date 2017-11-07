@@ -70,7 +70,7 @@ public class Colosseum {
      * @return tempPokemon - the Pokemon we built and are going to set our fighting Pokemon to <br>
      *         (Look, we can return objects too!)
      *         <p>
-     *         Implement this function.
+     *         Implement this function.fsdfsdf
      */
     public static Pokemon buildPokemon() {
         Pokemon tempPokemon = new Pokemon();
